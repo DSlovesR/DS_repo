@@ -2,3 +2,5 @@
 print ("THis is first file pushed in Github from RStudio!")
 
 print ("Testing push command")
+
+print (" Push tested successfully")
