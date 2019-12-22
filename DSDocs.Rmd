@@ -1,0 +1,52 @@
+---
+title: "Data Science"
+author: "DSLovesR"
+date: "December 22, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Data Analysis
+
+* There are six categories in which data analysis fall:
+   + Descriptive
+   + Exploratory
+   + Inferential
+   + Predictive
+   + Causal
+   + Mechanistic
+
+## Descritive
+
+The key goal of descritive anaylysis to **describe** or **summanries** a set of data. common descriptive analysis are central tendancy ( mean, median, mode) or measure of variability ( range, standard deviation , variance).
+
+
+## Explarotary
+
+Objective is to  examin or explore the data and find the **relationship** that were not known previousely. 
+
+
+## Inferential
+
+Objective is to use small sample of data to infer or same something about the **population** at large.
+
+Inferential analysis is commonly the goal of statistical modelling, where you have a small amount of information to extrapolate and generalize that information to a larger group.
+
+## Predictive
+
+Objective is to use current data and make **prediction** about **future** data.
+Essentially, you are using current and historical data to find patterns and predict the likelihood of future outcomes.
+
+
+## Causal
+
+Objective us to see the change in one variable when manipulate other variable- looking at the **cause** and **effect** of the **relationship**.
+
+
+## Mechanistic
+
+Objective of the mechanistic analysis is to understand the **exact changes in variables** that lead to **exact changes in other variables**.
+
